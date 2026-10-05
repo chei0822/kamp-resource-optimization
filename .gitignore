@@ -218,3 +218,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# K-AI 프로젝트 데이터 및 자동 생성 결과
+output/
+okm_augumented_2021*.csv
